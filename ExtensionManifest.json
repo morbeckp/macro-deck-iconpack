@@ -1,10 +1,9 @@
 {
-    "type": "IconPack",
-    "name": "Lime Pack",
-    "author": "paulo@morbeck.net",
-    "repository": "https://github.com/morbeckp/macro-deck-iconpack",
-    "packageId": "Morbeck.LimePack",
-    "version": "1.0.0",
-    "target-plugin-api-version": 36,
-    "dll": ""
+    "type" : "IconPack",
+    "name" : "Lime Pack",
+    "author" : "morbeckp",
+    "repository" : "https://github.com/morbeckp/macro-deck-iconpack",
+    "packageId" : "morbeckp.Lime.Pack",
+    "version" : "1.0.0",
+    "target-plugin-api-version" : 36
   }
